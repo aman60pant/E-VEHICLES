@@ -122,7 +122,6 @@
                 <div class=" d-inline-flex align-items-center py-3 me-4">
                     <i class="fa-solid fa-envelope"></i>&nbsp;
                     <small>aman@saieshaevehicles.com</small>
-
                 </div>
             </div>
             <div class="col-lg-5 px-5 text-end">
