@@ -77,23 +77,23 @@
                     <a class="btn btn-link" href="E-Scooter.php">EScout</a>
                     <a class="btn btn-link" href="E-Scooter.php">McAir</a>
                 </div>
-                
+
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Three Wheeler</h4>
                     <a class="btn btn-link" href="E-Rickshow.php">E-Rickshaw-Neuon</a>
                     <a class="btn btn-link" href="E-Rickshow.php">E-loaders-Neuon</a>
                     <a class="btn btn-link" href="E-Rickshow.php">E-Riskshow-Elvio</a>
                     <a class="btn btn-link" href="E-Rickshow.php">E-loaders-Elvio</a>
-
                 </div>
+
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Links</h4>
                     <a class="btn btn-link color" href="index.php">Home</a>
                     <a class="btn btn-link" href="about.php">About</a>
                     <a class="btn btn-link" href="contact.php">Contact</a>
                     <a class="btn btn-link" href="enquiry.php">Inquiry</a>
-
                 </div>
+                
             </div>
         </div>
         <div class="container">
