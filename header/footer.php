@@ -93,7 +93,7 @@
                     <a class="btn btn-link" href="contact.php">Contact</a>
                     <a class="btn btn-link" href="enquiry.php">Inquiry</a>
                 </div>
-                
+
             </div>
         </div>
         <div class="container">
