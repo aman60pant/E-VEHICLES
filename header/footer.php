@@ -69,15 +69,15 @@
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
-                
+
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Two Wheeler</h4>
                     <a class="btn btn-link" href="EV-Bike.php">EV-Bike</a>
                     <a class="btn btn-link" href="E-Scooter.php">EWon</a>
                     <a class="btn btn-link" href="E-Scooter.php">EScout</a>
                     <a class="btn btn-link" href="E-Scooter.php">McAir</a>
-
                 </div>
+                
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Three Wheeler</h4>
                     <a class="btn btn-link" href="E-Rickshow.php">E-Rickshaw-Neuon</a>
