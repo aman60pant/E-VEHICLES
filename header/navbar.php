@@ -78,7 +78,6 @@
                         <li><a href="contact.php" class="dropdown-item">Website</a></li>
                     </ul>
                 </div>
-                <!-- <a href="contact.php" class="nav-item nav-link">Contact</a> -->
             </div>
         </div>
     </nav>
