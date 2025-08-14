@@ -46,6 +46,7 @@
             /* Ensures the email addresses are treated as inline elements */
         }
     </style>
+
 </head>
 
 <body>
